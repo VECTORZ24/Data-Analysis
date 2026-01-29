@@ -4,31 +4,31 @@ An end-to-end Business Intelligence project focused on transforming Amazon sales
 
 What I did:
 
-Cleaned and transformed raw sales data using Python (Pandas)
++ Cleaned and transformed raw sales data using Python (Pandas)
 
-Designed a Star Schema (fact & dimension tables) for efficient analysis
++ Designed a Star Schema (fact & dimension tables) for efficient analysis
 
-Built an interactive Power BI dashboard with KPIs, trends, and geographic insights
++ Built an interactive Power BI dashboard with KPIs, trends, and geographic insights
 
 Key Insights:
 
-Sales performance over time
++ Sales performance over time
 
-Top products and categories
++ Top products and categories
 
-Regional and city-level sales analysis
++ Regional and city-level sales analysis
 
-Fulfillment and order behavior
++ Fulfillment and order behavior
 
 Tech Stack:
 
-Python (Pandas, NumPy)
++ Python (Pandas, NumPy)
 
-Power BI
++ Power BI
 
-Git & GitHub
++ Git & GitHub
 
-Kaggle dataset
++ Kaggle dataset
 
 This project demonstrates strong skills in data modeling, BI analysis, and dashboard design, aligned with real business decision-making.
 
