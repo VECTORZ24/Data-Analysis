@@ -46,4 +46,3 @@ for feature in ["N", "P", "K", "ph"]:
 # Store in best_predictive_feature dictionary
 best_predictive_feature = {"K": feature_performance["K"]}
 best_predictive_feature
-crops.to_csv("crops.csv",index=False)
