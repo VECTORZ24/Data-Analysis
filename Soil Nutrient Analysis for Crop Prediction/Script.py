@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn import metrics
 
 # Load the dataset
-crops = pd.read_csv("soil_measures.csv")
+crops = pd.read_csv("crops.csv")
 
 # Check for missing values
 crops.isna().sum()
